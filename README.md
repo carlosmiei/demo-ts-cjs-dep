@@ -1,8 +1,9 @@
-# demo-ts-cjs-dep
+# Typescript: error using CJS dependency
 
 As you can see, when using a CommonJS dependency tsc will generate an invalid cjs file, which breaks the entire code.
 
 File with the error: **dist/dependency.cjs**
+
 Error: esm style export inside cjs file: **export {};**
 
 Complete log after running: 
