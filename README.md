@@ -9,7 +9,7 @@ Error: esm style export inside cjs file: **export {};**
 
 #### How to reproduce:
 - npm run build
-- node/index.js
+- node dist/index.js
 
 Complete log after running: 
 
