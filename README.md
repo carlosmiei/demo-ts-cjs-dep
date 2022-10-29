@@ -6,6 +6,11 @@ File with the error: **dist/dependency.cjs**
 
 Error: esm style export inside cjs file: **export {};**
 
+
+#### How to reproduce:
+- npm run build
+- node/index.js
+
 Complete log after running: 
 
 ```
