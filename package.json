@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "version": "tsc -v",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
